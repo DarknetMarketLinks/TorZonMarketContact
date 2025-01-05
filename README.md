@@ -3,7 +3,7 @@ Torzon Market Contact - your guide to the darknet
 <body>
 <h1>Welcome to Torzon Market Contact</h1>
   <p>Welcome to the official guide for Torzon Market, a rising star in the darknet space. Here, you'll discover everything you need to successfully navigate Torzon, from securing access through verified onion links to handling transactions smoothly. Whether you’re a buyer or seller, this Contact will help you optimize your experience with Torzon Market mirror links. Learn how to create an account, securely log in, and manage your purchases or sales safely using Torzon Market advanced features. From ensuring secure transactions via their escrow system to using their secure onion URLs, this Contact covers all the critical steps to stay safe and anonymous on the darknet.</p>
-  <a href="https://torzonmarketcontact.com/">Torzon market</a>
+  <a href="https://torzonmarketcontact1.com/">Torzon market</a>
 <br>
 <hr>
 <h2>Torzon Market Overview.</h2>
@@ -31,6 +31,6 @@ Torzon Market Contact - your guide to the darknet
 <p>Torzon links:</p>
 <a href="http://torzonqgq7icutzxe4pjpsftwk2tuj5lnbj2j3tmnwwuak6kurvpp3yd.onion/">torzonqgq7icutzxe4pjpsftwk2tuj5lnbj2j3tmnwwuak6kurvpp3yd.onion</a>
   <br>
-<a href="https://torzonmarketcontact.com/">torzonmarketcontact.com</a>
+<a href="https://torzonmarketcontact1.com/">torzonmarketcontact.com</a>
   <br>
 </body>
